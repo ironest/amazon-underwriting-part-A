@@ -56,3 +56,12 @@ As previously mentioned, this project aims to provide two deliverables, with two
 
 * **Mongoose**: Object data modeling library used to interface with MongoDB within NodeJS.
 
+## R2 - Dataflow Diagram
+
+<img src="docs/data-flow-diagram.png" alt="Data Flow Diagram" width="900"/>
+
+## R3 - Application Architecture Diagram
+
+<img src="docs/application-architecture-diagram.png" alt="Architecture Diagram" width="900"/>
+
+
