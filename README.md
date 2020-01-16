@@ -36,3 +36,23 @@ As previously mentioned, this project aims to provide two deliverables, with two
    * Privates who operates a business from the home they live in
 2. The **Amazon Underwriting Business Owner**, who will be using the admin panel to manage content and media of the primarely web-app
 
+### Tech Stack
+
+* **React**: JavaScript library used to build responsive front end interfaces and single page applications: provides tools for interfacing with a webpage DOMs. 
+
+* **Redux**: A JavaScript library used to manage a global project state, in order to more easily access necessary data.
+
+* **Axios**: Promise based package that simplifies the obtaining of information through asynchronous HTTP requests. 
+
+* **NodeJS**: Javascript environment that runs JavaScript outside of the browser, allowing for backend builds that are capable of hosting web services. 
+
+* **Express**: Web framework built on NodeJS that simplifies API backend builds by providing tools for handling client requests and responses.
+
+* **Celebrate**: Express middleware that is used for validating information. 
+
+* **Passport**: Authentication middleware for NodeJS, that is used to verify users. 
+
+* **MongoDB**: Document database that stores Express API resources.
+
+* **Mongoose**: Object data modeling library used to interface with MongoDB within NodeJS.
+
