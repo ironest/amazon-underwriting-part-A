@@ -85,3 +85,5 @@ As previously mentioned, this project aims to provide two deliverables, with two
 ## R5 - Wireframes 
 
 ## R6 - Trello board
+<img src="docs/Part_A_Trello.jpg" alt="Initial Trello" width="900"/>
+<img src="docs/Trello_Board2.jpg" alt="Project planning" width="900" />
