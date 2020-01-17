@@ -85,5 +85,11 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 ## R5 - Wireframes 
 
 ## R6 - Trello board
-<img src="docs/Part_A_Trello.jpg" alt="Initial Trello" width="900"/>
-<img src="docs/Trello_Board2.jpg" alt="Project planning" width="900" />
+
+13/01/2020
+<img src="docs/Initial_trello_board.jpg" alt="Initial Trello" width="900" />
+
+16/01/2020
+<img src="docs/Part_A_Trello.jpg" alt="Project planning" width="900" />
+
+<img src="docs/Trello_Board2.jpg" alt="Trello Board 2" width="900" />
