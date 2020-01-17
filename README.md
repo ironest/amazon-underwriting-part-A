@@ -58,7 +58,7 @@ As previously mentioned, this project aims to provide two deliverables, with two
 
 ## R2 - Dataflow Diagram
 
-<img src="docs/Mern_auw_Data_flow_diagram.png" alt="Data Flow Diagram" width="900"/>
+<img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900"/>
 
 ## R3 - Application Architecture Diagram
 
