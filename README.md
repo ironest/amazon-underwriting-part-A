@@ -83,6 +83,12 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 | 13th Jan 20 | 16th Jan 20 | ~~As a **user** I want to perform searches on the website, so that I can easily find relevant documents.~~ | Descoped from the project due to complexity |	
 
 ## R5 - Wireframes 
+<img src="docs/wireframe-homepage.png" alt="homepage" width="900" />
+<img src="docs/wireframe-about-us.png" alt="homepage" width="900" />
+<img src="docs/wireframe-admin.png" alt="homepage" width="900" />
+<img src="docs/wireframe-childcare.png" alt="homepage" width="900" />
+<img src="docs/home-based-businesses.png" alt="homepage" width="900" />
+<img src="docs/wireframe-contact-form.png" alt="homepage" width="900" />
 
 ## R6 - Trello board
 
