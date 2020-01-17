@@ -6,10 +6,10 @@ Our project revolves around the **Amazon Underwriting Pty Ltd** business; they a
 
 ### Purpose
 
-represent a brand on the Internet, and which is often used as the landing page for advertising content. Beyond a mere testimonial presence, a corporate website represents
+Create a website to be used as a landing page in order to advertise **Amazon Underwriting PTY Ltd** on the internet with a more modern UI/UX. Along with improvements to its functionality/usability with a simple to use admin-only page that gives the owner an easy way to update parts of the website they may need to update regularly.
 
 The purpose of this project has **two objectives**:
-1. Rebuilding from scratch the current production-live version of the [Amazon-Underwriting website](https://amazonunderwriting.com.au/) website to give it a newer/fresher design and a smoother user experience.
+1. Rebuilding the current production-live version of the [Amazon-Underwriting](https://amazonunderwriting.com.au/) website to give it a newer/fresher design and a smoother user experience.
 2. Creating a parallel web-app to be used as an admin-panel through which the business owner can autonomously manage content and media of the public website.
 
 ### Functionality 
@@ -37,7 +37,7 @@ As previously mentioned, this project aims to provide two deliverables, with two
 2. The **Amazon Underwriting Business Owner**, who will be using the admin panel to manage content and media of the primarely web-app
 
 ### Tech Stack
-
+Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 * **React**: JavaScript library used to build responsive front end interfaces and single page applications: provides tools for interfacing with a webpage DOMs. 
 
 * **Redux**: A JavaScript library used to manage a global project state, in order to more easily access necessary data.
@@ -66,13 +66,13 @@ As previously mentioned, this project aims to provide two deliverables, with two
 
 ## R4- User Stories
 
-| Creation Date | Change Date | User Story | Notes | 
-| --- | --- | --- | --- | 
-| 13th Jan 20 |  | As an **administrator**, I want to have a private access, so that I can autonomously modify different parts of the website |  | 
-| 16th Jan 20 |  | As an **administrator**, I want users to access a public/read-only web-app, so that they cannot modify/delete content |  | 
-| 13th Jan 20 | 16th Jan 20 | ~~As an **administrator** I want to be able to upload/remove/hide documents to the website, so that I can make sure that those documents are relevant.~~ | Refined into 3 User Stories | 
-| 16th Jan 20 |  | As an **administrator** I want to be able to upload new documents to the website, so that I can make sure that those documents are relevant. |  | 
-| 16th Jan 20 |  | As an **administrator** I want to be able to delete old documents to the website, so that I can make sure that those documents are relevant. |  | 
+| Creation Date | Change Date | User Story | Notes |
+| --- | --- | --- | --- |
+| 13th Jan 20 |  | As an **administrator**, I want to have a private access, so that I can autonomously modify different parts of the website | |Admin Authentication |
+| 16th Jan 20 |  | As an **administrator**, I want users to access a public/read-only web-app, so that they cannot modify/delete content |  | Restrict user access|
+| 13th Jan 20 | 16th Jan 20 | ~~As an **administrator** I want to be able to upload/remove/hide documents to the website, so that I can make sure that those documents are relevant.~~ |
+| 16th Jan 20 |  | As an **administrator** I want to be able to upload new documents to the website, so that I can make sure that those documents are relevant. |  |
+| 16th Jan 20 |  | As an **administrator** I want to be able to delete old documents to the website, so that I can make sure that those documents are relevant. |  |
 | 16th Jan 20 |  | As an **administrator** I want to be able to hide/show existing documents to the website, so that I can make sure that those documents are relevant. |  | 
 | 13th Jan 20 |  | As an **administrator** I want to be able to rearrange the position of documents on the website, so that they are grouped on relevant sections of the website. |  | 
 | 13th Jan 20 |  | As the **business owner** I want to be able to collect contact information about potential clients, so that I can get in contact with them easily. |  | 
