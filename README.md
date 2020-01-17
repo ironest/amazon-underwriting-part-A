@@ -66,20 +66,20 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 
 ## R4- User Stories
 
-| Creation Date | Change Date | User Story | Notes |
-| --- | --- | --- | --- |
+| Creation Date | Change Date | User Story | Notes | Feature |
+| --- | --- | --- | --- | --- |
 | 13th Jan 20 |  | As an **administrator**, I want to have a private access, so that I can autonomously modify different parts of the website | |Admin Authentication |
 | 16th Jan 20 |  | As an **administrator**, I want users to access a public/read-only web-app, so that they cannot modify/delete content |  | Restrict user access|
-| 13th Jan 20 | 16th Jan 20 | ~~As an **administrator** I want to be able to upload/remove/hide documents to the website, so that I can make sure that those documents are relevant.~~ |
-| 16th Jan 20 |  | As an **administrator** I want to be able to upload new documents to the website, so that I can make sure that those documents are relevant. |  |
-| 16th Jan 20 |  | As an **administrator** I want to be able to delete old documents to the website, so that I can make sure that those documents are relevant. |  |
-| 16th Jan 20 |  | As an **administrator** I want to be able to hide/show existing documents to the website, so that I can make sure that those documents are relevant. |  | 
-| 13th Jan 20 |  | As an **administrator** I want to be able to rearrange the position of documents on the website, so that they are grouped on relevant sections of the website. |  | 
-| 13th Jan 20 |  | As the **business owner** I want to be able to collect contact information about potential clients, so that I can get in contact with them easily. |  | 
+| 13th Jan 20 | 16th Jan 20 | ~~As an **administrator** I want to be able to upload/remove/hide documents to the website, so that I can make sure that those documents are relevant.~~ | Refined into 3 User Stories | 
+| 16th Jan 20 |  | As an **administrator** I want to be able to upload new documents to the website, so that I can make sure that those documents are relevant. |  |  Add document upload capabilities |
+| 16th Jan 20 |  | As an **administrator** I want to be able to delete old documents to the website, so that I can make sure that those documents are relevant. | Possibly add revert changes capability | Add delete functionality |
+| 16th Jan 20 |  | As an **administrator** I want to be able to hide/show existing documents to the website, so that I can make sure that those documents are relevant. |  | Tickbox next to documents on admin page |
+| 13th Jan 20 |  | As an **administrator** I want to be able to rearrange the position of documents on the website, so that they are grouped on relevant sections of the website. | Relevant sub-headings for documents |  |
+| 13th Jan 20 |  | As the **business owner** I want to be able to collect contact information about potential clients, so that I can get in contact with them easily. | Contact form (mail chimp?) | Implement contact form |
 | 13th Jan 20 | 16th Jan 20 | ~~As the **business owner** I want to be able to send out a newsletter to clients, so that I can keep them informed of changes.~~ | The client requested to descoped it | 
-| 13th Jan 20 |  | As the **business owner** I want to be able to update my business details, so that information on the website stays relevant |  | 
-| 13th Jan 20 |  | As a **user** I want to be able to send a message from the website, so that I don’t need to go through my email client application. |  | 
-| 13th Jan 20 |  | As a **user** I want an easy to understand navigation bar, so that I can navigate around the site. |  | 
+| 13th Jan 20 |  | As the **business owner** I want to be able to update my business details, so that information on the website stays relevant |  | Implement admin profile/business details section |
+| 13th Jan 20 |  | As a **user** I want to be able to send a message from the website, so that I don’t need to go through my email client application. |  | Contact form |
+| 13th Jan 20 |  | As a **user** I want an easy to understand navigation bar, so that I can navigate around the site. |  | Add navigation bar with relevant headings |
 | 13th Jan 20 | 16th Jan 20 | ~~As a **user** I want to perform searches on the website, so that I can easily find relevant documents.~~ | Descoped from the project due to complexity |	
 
 ## R5 - Wireframes 
