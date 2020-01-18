@@ -68,12 +68,15 @@ To give a full understanding about how data flows within our project, we created
 
 ### Yourdon/DeMarco notation
 **Legend** 
+
 <img src="docs/dfd-legend.png" alt="Data Flow Diagram" width="200" />
 
 **Users scenario** 
+
 <img src="docs/dfd-users.png" alt="Data Flow Diagram" width="900" />
 
 **Admin scenario** 
+
 <img src="docs/dfd-admin.png" alt="Data Flow Diagram" width="900" />
 
 ## R3 - Application Architecture Diagram
