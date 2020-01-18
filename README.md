@@ -58,22 +58,26 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 
 ## R2 - Dataflow Diagrams
 
-To give a full understanding about how data flows within our project, we created two representations:
-* A Page-based breakdown
-* The Yourdon/DeMarco notation
+To give a full understanding about how data flows within our project, we created two representations (see below):
+1. A Page-based breakdown
+2. The Yourdon/DeMarco notation
 
-### Page-based breakdown
+### 1. Page-based breakdown
 
 <img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900" />
 
-### Yourdon/DeMarco notation
+### 2. Yourdon/DeMarco notation
 **Legend** 
 
 <img src="docs/dfd-legend.png" alt="Data Flow Diagram" width="200" />
 
+---
+
 **Users scenario** 
 
 <img src="docs/dfd-users.png" alt="Data Flow Diagram" width="900" />
+
+---
 
 **Admin scenario** 
 
