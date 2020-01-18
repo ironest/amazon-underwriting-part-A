@@ -56,13 +56,29 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 
 * **Mongoose**: Object data modeling library used to interface with MongoDB within NodeJS.
 
-## R2 - Dataflow Diagram
+## R2 - Dataflow Diagrams
 
-<img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900"/>
+To give a full understanding about how data flows within our project, we created two representations:
+* A Page-based breakdown
+* The Yourdon/DeMarco notation
+
+### Page-based breakdown
+
+<img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900" />
+
+### Yourdon/DeMarco notation
+**Legend** 
+<img src="docs/dfd-legend.png" alt="Data Flow Diagram" width="200" />
+
+**Users scenario** 
+<img src="docs/dfd-users.png" alt="Data Flow Diagram" width="900" />
+
+**Admin scenario** 
+<img src="docs/dfd-admin.png" alt="Data Flow Diagram" width="900" />
 
 ## R3 - Application Architecture Diagram
 
-<img src="docs/application-architecture-diagram.png" alt="Architecture Diagram" width="900"/>
+<img src="docs/application-architecture-diagram.png" alt="Architecture Diagram" width="900" />
 
 ## R4- User Stories
 
@@ -92,4 +108,5 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 16/01/2020
 <img src="docs/Part_A_Trello.jpg" alt="Project planning" width="900" />
 
+17/01/2020
 <img src="docs/Trello_Board2.jpg" alt="Trello Board 2" width="900" />
