@@ -56,13 +56,36 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 
 * **Mongoose**: Object data modeling library used to interface with MongoDB within NodeJS.
 
-## R2 - Dataflow Diagram
+## R2 - Dataflow Diagrams
 
-<img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900"/>
+To give a full understanding about how data flows within our project, we created two representations (see below):
+1. A Page-based breakdown
+2. The Yourdon/DeMarco notation
+
+### 1. Page-based breakdown
+
+<img src="docs/Mern_auw_Data_flow_diagram2.png" alt="Data Flow Diagram" width="900" />
+
+### 2. Yourdon/DeMarco notation
+**Legend** 
+
+<img src="docs/dfd-legend.png" alt="Data Flow Diagram" width="200" />
+
+---
+
+**Users scenario** 
+
+<img src="docs/dfd-users.png" alt="Data Flow Diagram" width="900" />
+
+---
+
+**Admin scenario** 
+
+<img src="docs/dfd-admin.png" alt="Data Flow Diagram" width="900" />
 
 ## R3 - Application Architecture Diagram
 
-<img src="docs/application-architecture-diagram.png" alt="Architecture Diagram" width="900"/>
+<img src="docs/application-architecture-diagram.png" alt="Architecture Diagram" width="900" />
 
 ## R4- User Stories
 
@@ -83,12 +106,30 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 | 13th Jan 20 | 16th Jan 20 | ~~As a **user** I want to perform searches on the website, so that I can easily find relevant documents.~~ | Descoped from the project due to complexity |	
 
 ## R5 - Wireframes 
+
+* **Homepage**
+
 <img src="docs/wireframe-homepage.png" alt="homepage" width="900" />
-<img src="docs/wireframe-about-us.png" alt="homepage" width="900" />
-<img src="docs/wireframe-admin.png" alt="homepage" width="900" />
-<img src="docs/wireframe-childcare.png" alt="homepage" width="900" />
-<img src="docs/home-based-businesses.png" alt="homepage" width="900" />
-<img src="docs/wireframe-contact-form.png" alt="homepage" width="900" />
+
+* **About Us**
+
+<img src="docs/wireframe-about-us.png" alt="about-us" width="900" />
+
+* **Childcare**
+
+<img src="docs/wireframe-childcare.png" alt="childcare" width="900" />
+
+* **Home-based Businesses**
+
+<img src="docs/wireframe-home-based-businesses.png" alt="home-based-businesses" width="900" />
+
+* **Admin Panel**
+
+<img src="docs/wireframe-admin.png" alt="admin" width="900" />
+
+* **Contact Form**
+
+<img src="docs/wireframe-contact.png" alt="contact" width="900" />
 
 ## R6 - Trello board
 
@@ -98,4 +139,6 @@ Core technology will be the MERN stack (MongoDB, Express, React and Node.js)
 16/01/2020
 <img src="docs/Part_A_Trello.jpg" alt="Project planning" width="900" />
 
+17/01/2020
 <img src="docs/Trello_Board2.jpg" alt="Trello Board 2" width="900" />
+
