@@ -12,6 +12,15 @@ The purpose of this project has **two objectives**:
 1. Rebuilding the current production-live version of the [Amazon-Underwriting](https://amazonunderwriting.com.au/) website to give it a newer/fresher design and a smoother user experience.
 2. Creating a parallel web-app to be used as an admin-panel through which the business owner can autonomously manage content and media of the public website.
 
+### Client Communication
+
+[Initial contact](https://drive.google.com/open?id=1FtqeG0QlxbE-zf3Gb5h9o5xAUFlF8TNnDiICI4rFdR4)
+
+[Design Guidelines](https://drive.google.com/open?id=1zSuP7APx8reU63TwILIGKBybeNhl5l_P)
+
+The design guideline gave specific instructions/restrictions as to how the logo of the company could be used, along with prefered colour preferences/styling that we will adhere to.
+
+
 ### Functionality 
 
 * Database provisioning
@@ -132,6 +141,7 @@ To give a full understanding about how data flows within our project, we created
 <img src="docs/wireframe-contact.png" alt="contact" width="900" />
 
 ## R6 - Trello board
+[Trello](https://trello.com/b/ruxmXlT5/mern-project)
 
 13/01/2020
 <img src="docs/Initial_trello_board.jpg" alt="Initial Trello" width="900" />
