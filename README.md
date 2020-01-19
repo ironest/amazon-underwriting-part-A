@@ -141,7 +141,7 @@ To give a full understanding about how data flows within our project, we created
 <img src="docs/wireframe-contact.png" alt="contact" width="900" />
 
 ## R6 - Trello board
-Trello: https://trello.com/b/ruxmXlT5/mern-project
+[Trello](https://trello.com/b/ruxmXlT5/mern-project)
 
 13/01/2020
 <img src="docs/Initial_trello_board.jpg" alt="Initial Trello" width="900" />
